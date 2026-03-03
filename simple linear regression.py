@@ -6,9 +6,9 @@ m = 0
 c = 0
 
 p = len(x)
-learning_rate = 0.00001
+learning_rate = 0.0005
 
-attempts = 1000
+attempts = 10000
 
 for i in range(attempts):
     dm = 0
